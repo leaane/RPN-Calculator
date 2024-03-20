@@ -1,2 +1,1 @@
-# RPN-Calculator
-RPN calculator using SFML
+Edit configurations to your working directory to run the program.

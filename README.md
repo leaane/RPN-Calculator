@@ -1,14 +1,10 @@
 Equations have to be in RPN (can only handle single digits)
 
-Examples:
-
-34+ == 3+4 = 7 
-
-234^+ == 3^4+2 = 83 
-
-34*25*+ == (3*4)+(2+5) = 22 
-
-342+*5* == 3*(4+2)*5 = 90 
+Examples:\n
+34+ == 3+4 = 7\n
+234^+ == 3^4+2 = 83 \n
+34*25*+ == (3*4)+(2+5) = 22 \n
+342+*5* == 3*(4+2)*5 = 90 \n
 
 Edit configurations to your working directory to run the program.
 
